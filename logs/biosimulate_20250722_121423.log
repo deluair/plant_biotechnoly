@@ -1,0 +1,333 @@
+2025-07-22 12:14:23,852 - root - INFO - Logging initialized at level INFO
+2025-07-22 12:14:23,853 - root - INFO - Log file: C:\Users\mhossen\OneDrive - University of Tennessee\AI\plant_biotechnoly\logs\biosimulate_20250722_121423.log
+2025-07-22 12:14:23,853 - __main__ - INFO - Starting BIOSIMULATE simulation at 2025-07-22 12:14:23
+2025-07-22 12:14:23,853 - __main__ - INFO - Scenario: baseline
+2025-07-22 12:14:23,854 - __main__ - INFO - Time period: 2025-2035
+2025-07-22 12:14:23,854 - biosimulate.simulation.metrics - INFO - Initialized metrics tracker
+2025-07-22 12:14:23,855 - biosimulate.simulation.events - INFO - Initialized event manager with 41 events
+2025-07-22 12:14:23,857 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,857 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,858 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,858 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,858 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,858 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,859 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,859 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,859 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,860 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,860 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,860 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,860 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,861 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,861 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,861 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,861 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,862 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,862 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,862 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,862 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,863 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,863 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,863 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,863 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,863 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,864 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,864 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,864 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,864 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,865 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,865 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,865 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,866 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 12:14:23,866 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,866 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,866 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,866 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,867 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,867 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,867 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,867 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,867 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,867 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,868 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,868 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,868 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,868 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,868 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 12:14:23,868 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 12:14:23,869 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for INDIA Government Research Institute
+2025-07-22 12:14:23,869 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for USA Government Research Institute
+2025-07-22 12:14:23,869 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for USA Government Research Institute
+2025-07-22 12:14:23,870 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for INDIA Government Research Institute
+2025-07-22 12:14:23,870 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for BRAZIL Government Research Institute
+2025-07-22 12:14:23,870 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for CHINA Government Research Institute
+2025-07-22 12:14:23,870 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for USA Government Research Institute
+2025-07-22 12:14:23,870 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for EU Government Research Institute
+2025-07-22 12:14:23,871 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for BRAZIL Government Research Institute
+2025-07-22 12:14:23,871 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for EU Government Research Institute
+2025-07-22 12:14:23,871 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for INDIA Government Research Institute
+2025-07-22 12:14:23,871 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for EU Government Research Institute
+2025-07-22 12:14:23,871 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for USA Government Research Institute
+2025-07-22 12:14:23,871 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for INDIA Government Research Institute
+2025-07-22 12:14:23,872 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for USA Government Research Institute
+2025-07-22 12:14:23,872 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for CHINA Government Research Institute
+2025-07-22 12:14:23,873 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for CHINA Government Research Institute
+2025-07-22 12:14:23,873 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for CHINA Government Research Institute
+2025-07-22 12:14:23,873 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for CHINA Government Research Institute
+2025-07-22 12:14:23,873 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for USA Government Research Institute
+2025-07-22 12:14:23,873 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 12:14:23,873 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 12:14:23,874 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 12:14:23,874 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 12:14:23,874 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 12:14:23,874 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 12:14:23,875 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 12:14:23,875 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 12:14:23,875 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 12:14:23,875 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 12:14:23,875 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 12:14:23,875 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 12:14:23,876 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 12:14:23,876 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 12:14:23,876 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 12:14:23,876 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 12:14:23,876 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 12:14:23,877 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 12:14:23,877 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 12:14:23,877 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 12:14:23,877 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 12:14:23,878 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 12:14:23,878 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 12:14:23,878 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 12:14:23,879 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 12:14:23,879 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 12:14:23,879 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 12:14:23,879 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 12:14:23,879 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 12:14:23,879 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 12:14:23,880 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 1 Biotech Corp
+2025-07-22 12:14:23,880 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 1 Biotech Corp
+2025-07-22 12:14:23,880 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 1 Biotech Corp
+2025-07-22 12:14:23,880 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 1 Biotech Corp
+2025-07-22 12:14:23,880 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 1 Biotech Corp
+2025-07-22 12:14:23,880 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,881 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,881 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,881 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,882 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,882 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,882 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,882 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,882 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,882 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,883 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,883 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,883 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,883 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,883 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 12:14:23,884 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,884 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,884 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,884 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,884 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,884 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,885 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,885 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,885 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,886 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,886 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,886 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,887 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,887 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,887 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,887 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,887 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,887 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,888 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,888 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,888 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,888 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,888 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,888 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,889 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 12:14:23,889 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,889 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,889 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,889 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,890 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,890 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,890 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,890 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,890 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,891 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,891 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,891 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,892 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,892 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,892 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,892 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,893 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,893 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,893 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,893 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,893 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,893 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,894 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,894 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,894 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,895 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,895 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,896 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,896 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,896 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,896 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,896 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,896 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,897 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,897 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,897 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,897 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,897 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,898 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,898 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,898 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,898 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,898 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,899 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,899 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,899 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,899 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,899 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,899 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,899 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,899 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,900 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,900 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,901 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,901 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,901 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,901 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,901 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,902 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,902 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,902 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,902 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,902 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,903 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,903 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,904 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,904 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,904 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,904 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,904 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,905 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,905 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,905 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,905 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,906 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,906 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,906 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,906 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,907 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,907 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,907 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,907 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,908 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,908 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,909 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,909 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,909 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,909 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,909 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,909 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,910 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,910 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 12:14:23,910 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,910 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,911 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,911 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,911 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,911 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 12:14:23,911 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 12:14:23,912 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 12:14:23,912 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,913 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,913 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,913 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,913 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,914 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,914 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,914 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,914 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,914 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,915 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,915 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,916 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,916 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,916 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,916 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,916 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,917 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,917 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,917 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,917 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,917 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,918 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,918 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,918 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,918 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,918 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,918 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,918 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,919 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,919 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,920 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,920 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,920 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,920 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,920 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,921 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,921 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,921 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,922 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,922 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,922 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,923 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,923 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,923 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 12:14:23,923 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,923 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,924 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,924 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 12:14:23,924 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 12:14:23,949 - biosimulate.simulation.engine - INFO - Initialized simulation engine with 670 agents
+2025-07-22 12:14:23,949 - biosimulate.simulation.engine - INFO - Starting simulation run from 2025 to 2035
+2025-07-22 12:14:23,949 - biosimulate.simulation.engine - INFO - Simulating year 2025
+2025-07-22 12:14:23,949 - biosimulate.simulation.events - INFO - Processing 2 events for year 2025
+2025-07-22 12:14:23,949 - biosimulate.simulation.events - INFO - Event: Annual market report for 2025
+2025-07-22 12:14:23,950 - biosimulate.simulation.events - INFO - Event: Biennial regulatory review in 2025
+2025-07-22 12:14:23,950 - biosimulate.economic.market - WARNING - No products registered in the market for year 2025. Returning zero metrics.
+2025-07-22 12:14:23,979 - biosimulate.simulation.engine - INFO - Simulating year 2026
+2025-07-22 12:14:23,979 - biosimulate.simulation.events - INFO - Processing 3 events for year 2026
+2025-07-22 12:14:23,979 - biosimulate.simulation.events - INFO - Event: Annual CRISPR efficiency improvement in 2026
+2025-07-22 12:14:23,980 - biosimulate.simulation.events - INFO - Event: Annual breeding technology improvement in 2026
+2025-07-22 12:14:23,980 - biosimulate.simulation.events - INFO - Event: Annual market report for 2026
+2025-07-22 12:14:23,980 - biosimulate.economic.market - WARNING - No products registered in the market for year 2026. Returning zero metrics.
+2025-07-22 12:14:23,994 - biosimulate.simulation.engine - ERROR - Error stepping agent 312c65cb-1830-44c5-9a1c-7856931b1a6e (Large Seed Company): float division by zero
+2025-07-22 12:14:23,994 - __main__ - ERROR - Simulation failed: float division by zero
+Traceback (most recent call last):
+  File "C:\Users\mhossen\OneDrive - University of Tennessee\AI\plant_biotechnoly\biosimulate\run_simulation.py", line 103, in main
+    results = engine.run()
+              ^^^^^^^^^^^^
+  File "C:\Users\mhossen\OneDrive - University of Tennessee\AI\plant_biotechnoly\biosimulate\simulation\engine.py", line 310, in run
+    raise e
+  File "C:\Users\mhossen\OneDrive - University of Tennessee\AI\plant_biotechnoly\biosimulate\simulation\engine.py", line 305, in run
+    step_method(**params_to_pass)
+  File "C:\Users\mhossen\OneDrive - University of Tennessee\AI\plant_biotechnoly\biosimulate\agents\commercial_player.py", line 176, in step
+    self._update_state(year, actions, context)
+  File "C:\Users\mhossen\OneDrive - University of Tennessee\AI\plant_biotechnoly\biosimulate\agents\commercial_player.py", line 237, in _update_state
+    self._update_products(actions, context)
+  File "C:\Users\mhossen\OneDrive - University of Tennessee\AI\plant_biotechnoly\biosimulate\agents\commercial_player.py", line 1488, in _update_products
+    base_increment = 100.0 / approval_time  # Base progress per year
+                     ~~~~~~^~~~~~~~~~~~~~~
+ZeroDivisionError: float division by zero

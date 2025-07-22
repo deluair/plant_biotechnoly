@@ -1,0 +1,30 @@
+# Core dependencies
+numpy==1.24.3
+pandas==2.0.2
+scipy==1.10.1
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Agent-based modeling
+mesa==1.1.1
+networkx==3.1
+
+# Data analysis and visualization
+jupyter==1.0.0
+plotly==5.14.1
+dash==2.10.2
+
+# Machine learning and statistics
+scikit-learn==1.2.2
+statsmodels==0.14.0
+
+# Simulation and optimization
+simpy==4.0.1
+pyomo==6.6.1
+
+# Geographic data handling
+geopandas==0.13.2
+folium==0.14.0
+
+# Documentation
+sphinx==7.0.1

@@ -1,0 +1,1028 @@
+2025-07-22 11:45:30,115 - root - INFO - Logging initialized at level DEBUG
+2025-07-22 11:45:30,117 - root - INFO - Log file: C:\Users\mhossen\OneDrive - University of Tennessee\AI\plant_biotechnoly\logs\biosimulate_20250722_114530.log
+2025-07-22 11:45:30,117 - __main__ - INFO - Starting BIOSIMULATE simulation at 2025-07-22 11:45:30
+2025-07-22 11:45:30,117 - __main__ - INFO - Scenario: baseline
+2025-07-22 11:45:30,117 - __main__ - INFO - Time period: 2025-2035
+2025-07-22 11:45:30,118 - biosimulate.simulation.metrics - INFO - Initialized metrics tracker
+2025-07-22 11:45:30,119 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2026, technology_improvement, Annual CRISPR efficiency improvement in 2026)
+2025-07-22 11:45:30,120 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2026, technology_improvement, Annual breeding technology improvement in 2026)
+2025-07-22 11:45:30,120 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2027, technology_improvement, Annual CRISPR efficiency improvement in 2027)
+2025-07-22 11:45:30,120 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2027, technology_improvement, Annual breeding technology improvement in 2027)
+2025-07-22 11:45:30,121 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2028, technology_improvement, Annual CRISPR efficiency improvement in 2028)
+2025-07-22 11:45:30,121 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2028, technology_improvement, Annual breeding technology improvement in 2028)
+2025-07-22 11:45:30,121 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2029, technology_improvement, Annual CRISPR efficiency improvement in 2029)
+2025-07-22 11:45:30,121 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2029, technology_improvement, Annual breeding technology improvement in 2029)
+2025-07-22 11:45:30,121 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2030, technology_improvement, Annual CRISPR efficiency improvement in 2030)
+2025-07-22 11:45:30,122 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2030, technology_improvement, Annual breeding technology improvement in 2030)
+2025-07-22 11:45:30,122 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2031, technology_improvement, Annual CRISPR efficiency improvement in 2031)
+2025-07-22 11:45:30,122 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2031, technology_improvement, Annual breeding technology improvement in 2031)
+2025-07-22 11:45:30,122 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2032, technology_improvement, Annual CRISPR efficiency improvement in 2032)
+2025-07-22 11:45:30,122 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2032, technology_improvement, Annual breeding technology improvement in 2032)
+2025-07-22 11:45:30,122 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2033, technology_improvement, Annual CRISPR efficiency improvement in 2033)
+2025-07-22 11:45:30,123 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2033, technology_improvement, Annual breeding technology improvement in 2033)
+2025-07-22 11:45:30,123 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2034, technology_improvement, Annual CRISPR efficiency improvement in 2034)
+2025-07-22 11:45:30,123 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2034, technology_improvement, Annual breeding technology improvement in 2034)
+2025-07-22 11:45:30,123 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2035, technology_improvement, Annual CRISPR efficiency improvement in 2035)
+2025-07-22 11:45:30,123 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2035, technology_improvement, Annual breeding technology improvement in 2035)
+2025-07-22 11:45:30,123 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2025, market_report, Annual market report for 2025)
+2025-07-22 11:45:30,124 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2026, market_report, Annual market report for 2026)
+2025-07-22 11:45:30,124 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2027, market_report, Annual market report for 2027)
+2025-07-22 11:45:30,124 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2028, market_report, Annual market report for 2028)
+2025-07-22 11:45:30,124 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2029, market_report, Annual market report for 2029)
+2025-07-22 11:45:30,124 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2030, market_report, Annual market report for 2030)
+2025-07-22 11:45:30,125 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2031, market_report, Annual market report for 2031)
+2025-07-22 11:45:30,125 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2032, market_report, Annual market report for 2032)
+2025-07-22 11:45:30,125 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2033, market_report, Annual market report for 2033)
+2025-07-22 11:45:30,125 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2034, market_report, Annual market report for 2034)
+2025-07-22 11:45:30,125 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2035, market_report, Annual market report for 2035)
+2025-07-22 11:45:30,125 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2025, regulatory_review, Biennial regulatory review in 2025)
+2025-07-22 11:45:30,126 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2027, regulatory_review, Biennial regulatory review in 2027)
+2025-07-22 11:45:30,126 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2029, regulatory_review, Biennial regulatory review in 2029)
+2025-07-22 11:45:30,126 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2031, regulatory_review, Biennial regulatory review in 2031)
+2025-07-22 11:45:30,126 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2033, regulatory_review, Biennial regulatory review in 2033)
+2025-07-22 11:45:30,126 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2035, regulatory_review, Biennial regulatory review in 2035)
+2025-07-22 11:45:30,127 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2028, technology_breakthrough, Moderate CRISPR delivery system breakthrough)
+2025-07-22 11:45:30,127 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2031, technology_breakthrough, Moderate synthetic biology cost reduction)
+2025-07-22 11:45:30,127 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2029, regulatory_change, Minor EU regulatory framework update)
+2025-07-22 11:45:30,127 - biosimulate.simulation.events - DEBUG - Scheduled event: Event(2027, market_development, New premium market segment emerges for sustainable crops)
+2025-07-22 11:45:30,127 - biosimulate.simulation.events - INFO - Initialized event manager with 41 events
+2025-07-22 11:45:30,128 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Crispr in global
+2025-07-22 11:45:30,128 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 11:45:30,129 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,129 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,129 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Synthetic_Biology in global
+2025-07-22 11:45:30,129 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 11:45:30,130 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Crispr in global
+2025-07-22 11:45:30,130 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 11:45:30,130 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,130 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,130 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,131 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,131 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,131 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,131 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Crispr in global
+2025-07-22 11:45:30,131 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 11:45:30,131 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,131 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,131 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,132 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,132 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,132 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,132 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Crispr in global
+2025-07-22 11:45:30,132 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 11:45:30,132 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,133 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,133 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Synthetic_Biology in global
+2025-07-22 11:45:30,133 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 11:45:30,133 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,133 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,133 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Synthetic_Biology in global
+2025-07-22 11:45:30,134 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 11:45:30,134 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Crispr in global
+2025-07-22 11:45:30,134 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 11:45:30,134 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,134 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,135 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Synthetic_Biology in global
+2025-07-22 11:45:30,135 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 11:45:30,135 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,135 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,135 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,136 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,136 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,136 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,136 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Crispr in global
+2025-07-22 11:45:30,136 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 11:45:30,138 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Synthetic_Biology in global
+2025-07-22 11:45:30,138 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 11:45:30,138 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Crispr in global
+2025-07-22 11:45:30,138 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 11:45:30,138 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,139 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,139 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Synthetic_Biology in global
+2025-07-22 11:45:30,139 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 11:45:30,139 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Synthetic_Biology in global
+2025-07-22 11:45:30,139 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 11:45:30,140 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,140 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,140 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,140 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,140 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,141 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,141 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,141 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,141 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Synthetic_Biology in global
+2025-07-22 11:45:30,141 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 11:45:30,142 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,142 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,142 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,142 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,142 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Crispr in global
+2025-07-22 11:45:30,143 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 11:45:30,143 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Crispr in global
+2025-07-22 11:45:30,143 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 11:45:30,143 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Synthetic_Biology in global
+2025-07-22 11:45:30,143 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 11:45:30,143 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,144 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,144 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Crispr in global
+2025-07-22 11:45:30,144 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 11:45:30,144 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,144 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,145 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Crispr in global
+2025-07-22 11:45:30,145 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 11:45:30,145 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Synthetic_Biology in global
+2025-07-22 11:45:30,145 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 11:45:30,146 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Synthetic_Biology in global
+2025-07-22 11:45:30,146 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Synthetic_Biology
+2025-07-22 11:45:30,146 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,146 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,147 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,147 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,147 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,147 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,147 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Crispr in global
+2025-07-22 11:45:30,147 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Crispr
+2025-07-22 11:45:30,148 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,148 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,148 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - University Lab - Breeding in global
+2025-07-22 11:45:30,148 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for University Lab - Breeding
+2025-07-22 11:45:30,149 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - USA Government Research Institute in usa
+2025-07-22 11:45:30,149 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for USA Government Research Institute
+2025-07-22 11:45:30,149 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - USA Government Research Institute in usa
+2025-07-22 11:45:30,149 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for USA Government Research Institute
+2025-07-22 11:45:30,149 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - CHINA Government Research Institute in china
+2025-07-22 11:45:30,150 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for CHINA Government Research Institute
+2025-07-22 11:45:30,150 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - CHINA Government Research Institute in china
+2025-07-22 11:45:30,150 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for CHINA Government Research Institute
+2025-07-22 11:45:30,150 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - USA Government Research Institute in usa
+2025-07-22 11:45:30,150 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for USA Government Research Institute
+2025-07-22 11:45:30,151 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - USA Government Research Institute in usa
+2025-07-22 11:45:30,151 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for USA Government Research Institute
+2025-07-22 11:45:30,151 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - USA Government Research Institute in usa
+2025-07-22 11:45:30,151 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for USA Government Research Institute
+2025-07-22 11:45:30,151 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - INDIA Government Research Institute in india
+2025-07-22 11:45:30,151 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for INDIA Government Research Institute
+2025-07-22 11:45:30,152 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - EU Government Research Institute in eu
+2025-07-22 11:45:30,152 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for EU Government Research Institute
+2025-07-22 11:45:30,152 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - INDIA Government Research Institute in india
+2025-07-22 11:45:30,152 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for INDIA Government Research Institute
+2025-07-22 11:45:30,152 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - INDIA Government Research Institute in india
+2025-07-22 11:45:30,153 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for INDIA Government Research Institute
+2025-07-22 11:45:30,153 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - BRAZIL Government Research Institute in brazil
+2025-07-22 11:45:30,153 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for BRAZIL Government Research Institute
+2025-07-22 11:45:30,153 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - CHINA Government Research Institute in china
+2025-07-22 11:45:30,153 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for CHINA Government Research Institute
+2025-07-22 11:45:30,153 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - USA Government Research Institute in usa
+2025-07-22 11:45:30,153 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for USA Government Research Institute
+2025-07-22 11:45:30,154 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - INDIA Government Research Institute in india
+2025-07-22 11:45:30,155 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for INDIA Government Research Institute
+2025-07-22 11:45:30,155 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - BRAZIL Government Research Institute in brazil
+2025-07-22 11:45:30,155 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for BRAZIL Government Research Institute
+2025-07-22 11:45:30,155 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - CHINA Government Research Institute in china
+2025-07-22 11:45:30,155 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for CHINA Government Research Institute
+2025-07-22 11:45:30,156 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - BRAZIL Government Research Institute in brazil
+2025-07-22 11:45:30,156 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for BRAZIL Government Research Institute
+2025-07-22 11:45:30,156 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - BRAZIL Government Research Institute in brazil
+2025-07-22 11:45:30,156 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for BRAZIL Government Research Institute
+2025-07-22 11:45:30,156 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - BRAZIL Government Research Institute in brazil
+2025-07-22 11:45:30,157 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for BRAZIL Government Research Institute
+2025-07-22 11:45:30,157 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Diagnostics R&D Solutions in global
+2025-07-22 11:45:30,157 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 11:45:30,157 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Diagnostics R&D Solutions in global
+2025-07-22 11:45:30,157 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 11:45:30,158 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Diagnostics R&D Solutions in global
+2025-07-22 11:45:30,158 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 11:45:30,158 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,158 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,158 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,158 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,159 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,159 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,159 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Diagnostics R&D Solutions in global
+2025-07-22 11:45:30,159 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 11:45:30,159 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Diagnostics R&D Solutions in global
+2025-07-22 11:45:30,160 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 11:45:30,160 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,160 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,160 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Diagnostics R&D Solutions in global
+2025-07-22 11:45:30,160 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 11:45:30,161 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Trait_Development R&D Solutions in global
+2025-07-22 11:45:30,161 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 11:45:30,161 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Trait_Development R&D Solutions in global
+2025-07-22 11:45:30,161 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 11:45:30,162 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,162 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,162 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Diagnostics R&D Solutions in global
+2025-07-22 11:45:30,162 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 11:45:30,162 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Diagnostics R&D Solutions in global
+2025-07-22 11:45:30,163 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 11:45:30,163 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,163 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,163 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,163 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,163 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Trait_Development R&D Solutions in global
+2025-07-22 11:45:30,164 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 11:45:30,164 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Trait_Development R&D Solutions in global
+2025-07-22 11:45:30,164 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 11:45:30,164 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Trait_Development R&D Solutions in global
+2025-07-22 11:45:30,164 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Trait_Development R&D Solutions
+2025-07-22 11:45:30,165 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Diagnostics R&D Solutions in global
+2025-07-22 11:45:30,165 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 11:45:30,165 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,165 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,166 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Diagnostics R&D Solutions in global
+2025-07-22 11:45:30,166 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 11:45:30,166 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,166 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,167 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,167 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,167 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,167 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,168 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Diagnostics R&D Solutions in global
+2025-07-22 11:45:30,168 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 11:45:30,168 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,168 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,168 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Gene_Editing R&D Solutions in global
+2025-07-22 11:45:30,168 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Gene_Editing R&D Solutions
+2025-07-22 11:45:30,168 - biosimulate.agents.base_agent - DEBUG - Created agent: research_entity - Diagnostics R&D Solutions in global
+2025-07-22 11:45:30,170 - biosimulate.agents.research_entity - WARNING - Agent type overridden to 'research' for Diagnostics R&D Solutions
+2025-07-22 11:45:30,170 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 1 Biotech Corp in global
+2025-07-22 11:45:30,170 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 1 Biotech Corp
+2025-07-22 11:45:30,170 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 1 Biotech Corp in global
+2025-07-22 11:45:30,170 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 1 Biotech Corp
+2025-07-22 11:45:30,170 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 1 Biotech Corp in global
+2025-07-22 11:45:30,171 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 1 Biotech Corp
+2025-07-22 11:45:30,171 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 1 Biotech Corp in global
+2025-07-22 11:45:30,171 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 1 Biotech Corp
+2025-07-22 11:45:30,171 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 1 Biotech Corp in global
+2025-07-22 11:45:30,171 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 1 Biotech Corp
+2025-07-22 11:45:30,172 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,172 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,172 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,172 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,173 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,173 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,173 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,173 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,173 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,173 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,174 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,174 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,174 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,174 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,174 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,174 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,175 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,175 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,175 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,175 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,175 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,176 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,176 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,176 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,176 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,176 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,177 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,177 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,177 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 2 Biotech Corp in global
+2025-07-22 11:45:30,177 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 2 Biotech Corp
+2025-07-22 11:45:30,178 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,178 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,178 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,178 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,178 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,178 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,179 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,179 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,179 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,179 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,179 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,180 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,180 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,180 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,180 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,180 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,180 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,181 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,181 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,181 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,181 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,182 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,182 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,183 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,183 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,183 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,183 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,183 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,184 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,184 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,184 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,184 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,184 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,184 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,185 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,185 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,185 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,185 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,185 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,186 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,186 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,186 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,186 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,186 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,188 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,188 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,188 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,188 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,188 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Tier 3 Biotech Corp in global
+2025-07-22 11:45:30,188 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Tier 3 Biotech Corp
+2025-07-22 11:45:30,188 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,188 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,188 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,189 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,189 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,189 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,189 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,189 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,190 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,190 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,190 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,190 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,191 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,191 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,191 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,191 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,191 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,192 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,192 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,192 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,192 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,192 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,193 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,194 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,194 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,194 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,194 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,195 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,195 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,195 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,195 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,196 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,196 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,196 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,196 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,197 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,197 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,197 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,197 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,198 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,198 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,198 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,199 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,199 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,199 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,199 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,199 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,200 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,200 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,200 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,200 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,201 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,201 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,201 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,201 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,202 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,202 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,202 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,202 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,202 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,203 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,203 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,203 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,203 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,203 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,204 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,204 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,204 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,204 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,204 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,204 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,204 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,204 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,205 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,205 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,205 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,205 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,206 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,206 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,206 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,206 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,207 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,207 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,207 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,207 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,207 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,208 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,208 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,209 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,209 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,209 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,209 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,209 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,209 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,210 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,210 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,210 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,210 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,210 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,210 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,211 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,211 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,211 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,212 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,212 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,212 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,212 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,212 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,213 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,213 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,213 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,213 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,214 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,214 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,214 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,214 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,214 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,215 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,215 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,215 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,215 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,215 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,216 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,216 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,216 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,216 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,216 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,216 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,217 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,217 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,217 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,217 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,218 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,218 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,218 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,218 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,218 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,218 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,219 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,219 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,219 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,219 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,219 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,220 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,220 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,220 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,220 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,220 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,220 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,221 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,221 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,221 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,221 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,222 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,222 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,222 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,222 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,222 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,223 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,223 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,223 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,223 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,223 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,224 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,224 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,224 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,224 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,224 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,225 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,225 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,225 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,225 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,225 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,225 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,226 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,226 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,226 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,226 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,226 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,226 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,227 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Synthetic_Biology Tech Startup in global
+2025-07-22 11:45:30,227 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Synthetic_Biology Tech Startup
+2025-07-22 11:45:30,227 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,227 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,228 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,228 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,228 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,228 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,228 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Breeding Tech Startup in global
+2025-07-22 11:45:30,229 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Breeding Tech Startup
+2025-07-22 11:45:30,229 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,229 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,229 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,229 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,230 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,230 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,230 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Digital Tech Startup in global
+2025-07-22 11:45:30,230 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Digital Tech Startup
+2025-07-22 11:45:30,230 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Crispr Tech Startup in global
+2025-07-22 11:45:30,231 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Crispr Tech Startup
+2025-07-22 11:45:30,231 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,231 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,231 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,232 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,232 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Medium Seed Company in global
+2025-07-22 11:45:30,232 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 11:45:30,232 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,233 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,233 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,233 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,233 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,233 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,234 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,234 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,234 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Medium Seed Company in global
+2025-07-22 11:45:30,234 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 11:45:30,235 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,235 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,235 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Medium Seed Company in global
+2025-07-22 11:45:30,235 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 11:45:30,235 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,236 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,236 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,236 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,236 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,237 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,237 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Medium Seed Company in global
+2025-07-22 11:45:30,238 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 11:45:30,238 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,238 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,238 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Medium Seed Company in global
+2025-07-22 11:45:30,238 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 11:45:30,239 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,239 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,239 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,239 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,239 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,239 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,240 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Medium Seed Company in global
+2025-07-22 11:45:30,240 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 11:45:30,240 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Medium Seed Company in global
+2025-07-22 11:45:30,240 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 11:45:30,241 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,241 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,241 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,241 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,241 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,242 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,242 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,242 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,242 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,242 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,243 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,243 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,243 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,243 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,243 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,244 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,244 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,244 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,244 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Medium Seed Company in global
+2025-07-22 11:45:30,244 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 11:45:30,245 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,245 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,245 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,245 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,246 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,246 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,246 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,246 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,247 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,247 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,247 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,247 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,247 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,248 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,248 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,248 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,248 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,249 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,249 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,249 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,249 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,249 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,249 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,250 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,250 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,250 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,250 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Medium Seed Company in global
+2025-07-22 11:45:30,250 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 11:45:30,251 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,251 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,251 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,251 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,251 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Medium Seed Company in global
+2025-07-22 11:45:30,252 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Medium Seed Company
+2025-07-22 11:45:30,252 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Small Seed Company in global
+2025-07-22 11:45:30,252 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Small Seed Company
+2025-07-22 11:45:30,252 - biosimulate.agents.base_agent - DEBUG - Created agent: commercial_player - Large Seed Company in global
+2025-07-22 11:45:30,252 - biosimulate.agents.commercial_player - WARNING - Agent type overridden to 'commercial' for Large Seed Company
+2025-07-22 11:45:30,252 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - USA_FDA Regulatory Agency in usa_fda
+2025-07-22 11:45:30,253 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - USA_USDA Regulatory Agency in usa_usda
+2025-07-22 11:45:30,253 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - USA_EPA Regulatory Agency in usa_epa
+2025-07-22 11:45:30,253 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - EU_EFSA Regulatory Agency in eu_efsa
+2025-07-22 11:45:30,253 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - EU_ECHA Regulatory Agency in eu_echa
+2025-07-22 11:45:30,254 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - CHINA_MOA Regulatory Agency in china_moa
+2025-07-22 11:45:30,254 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - BRAZIL_CTNBIO Regulatory Agency in brazil_ctnbio
+2025-07-22 11:45:30,254 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - INDIA_GEAC Regulatory Agency in india_geac
+2025-07-22 11:45:30,254 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - JAPAN_MAFF Regulatory Agency in japan_maff
+2025-07-22 11:45:30,255 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - AUSTRALIA_OGTR Regulatory Agency in australia_ogtr
+2025-07-22 11:45:30,255 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - Codex Alimentarius in international
+2025-07-22 11:45:30,255 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - Oecd in international
+2025-07-22 11:45:30,255 - biosimulate.agents.base_agent - DEBUG - Created agent: regulatory_body - Wto in international
+2025-07-22 11:45:30,256 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,256 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,256 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,257 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,257 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,257 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,257 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,258 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,258 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,258 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,258 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,258 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,259 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,259 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,259 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,259 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,259 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,260 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,260 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,260 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,261 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,261 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,261 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,261 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,261 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,262 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,262 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,262 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,263 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,263 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - north_america in north_america
+2025-07-22 11:45:30,263 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,263 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,264 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,264 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,264 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,265 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,265 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,265 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,265 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,265 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,266 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,266 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,266 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,267 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,267 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - north_america in north_america
+2025-07-22 11:45:30,267 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - north_america in north_america
+2025-07-22 11:45:30,267 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - north_america in north_america
+2025-07-22 11:45:30,267 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - north_america in north_america
+2025-07-22 11:45:30,268 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - north_america in north_america
+2025-07-22 11:45:30,268 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - north_america in north_america
+2025-07-22 11:45:30,268 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - north_america in north_america
+2025-07-22 11:45:30,268 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - north_america in north_america
+2025-07-22 11:45:30,270 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - north_america in north_america
+2025-07-22 11:45:30,270 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - north_america in north_america
+2025-07-22 11:45:30,270 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,270 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,270 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,271 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,271 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,271 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,271 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,272 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,272 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,272 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,273 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,273 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,274 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,274 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,274 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - europe in europe
+2025-07-22 11:45:30,274 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,275 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,275 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,275 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,275 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,275 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,276 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,276 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,276 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,276 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,277 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,277 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,277 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,278 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,278 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,278 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,278 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,279 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,279 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,279 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,279 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,280 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,280 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,280 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - europe in europe
+2025-07-22 11:45:30,281 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,281 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,281 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,282 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,282 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,282 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,283 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,283 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,283 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,284 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,284 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,284 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,284 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,285 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,286 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - europe in europe
+2025-07-22 11:45:30,286 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,286 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,287 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,287 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,287 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,287 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,288 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,288 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,288 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,289 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,289 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,289 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,289 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,289 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,290 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,290 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,290 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,290 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,291 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,291 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,291 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,291 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,292 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,292 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,292 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,292 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,292 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,293 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,293 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,293 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,293 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,293 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,294 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,294 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,294 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,294 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,295 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,295 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,295 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,295 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,295 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,296 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,296 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,296 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,296 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,297 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,297 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,297 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,297 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,298 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,298 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,298 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,298 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,298 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,299 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,299 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,299 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,299 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,299 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,300 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,300 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,300 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,300 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,300 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,301 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,301 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,301 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,301 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,302 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,302 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,302 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,302 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,303 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,303 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,303 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,303 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,303 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,304 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,304 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,304 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,304 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,306 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,306 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,306 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - asia_pacific in asia_pacific
+2025-07-22 11:45:30,306 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,307 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,307 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,307 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,307 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,308 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,308 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,308 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,308 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,309 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,309 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,309 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,309 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,309 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,310 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,310 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,310 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,310 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,310 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,311 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,311 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,311 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,311 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,312 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - latin_america in latin_america
+2025-07-22 11:45:30,312 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,312 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,312 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,313 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,313 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,313 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,313 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,314 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,314 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,315 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,315 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,315 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,315 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,316 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,316 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,316 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,316 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,316 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - latin_america in latin_america
+2025-07-22 11:45:30,317 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - latin_america in latin_america
+2025-07-22 11:45:30,317 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - latin_america in latin_america
+2025-07-22 11:45:30,317 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - latin_america in latin_america
+2025-07-22 11:45:30,317 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - latin_america in latin_america
+2025-07-22 11:45:30,318 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - latin_america in latin_america
+2025-07-22 11:45:30,318 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - latin_america in latin_america
+2025-07-22 11:45:30,318 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - latin_america in latin_america
+2025-07-22 11:45:30,318 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - latin_america in latin_america
+2025-07-22 11:45:30,319 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - latin_america in latin_america
+2025-07-22 11:45:30,319 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - latin_america in latin_america
+2025-07-22 11:45:30,319 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - latin_america in latin_america
+2025-07-22 11:45:30,319 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - latin_america in latin_america
+2025-07-22 11:45:30,320 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,320 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,320 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,320 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,320 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,321 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,321 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,321 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,321 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,322 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,322 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,322 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,322 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,323 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,323 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,323 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,323 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,324 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,324 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,324 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,324 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,325 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,325 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,325 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,325 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,326 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,326 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,326 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,326 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,327 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,327 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,328 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,328 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,328 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,328 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,329 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,329 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,329 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,329 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,330 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,330 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,330 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,330 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,331 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,331 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,331 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,331 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,332 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,332 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,332 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,332 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Farmer - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,333 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,333 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,333 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,333 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,334 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,334 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,334 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,334 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,334 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,335 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,335 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,335 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,336 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,336 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,336 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,336 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,336 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,336 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,338 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,338 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,338 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,339 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,339 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,339 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,339 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,340 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,340 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,340 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,341 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,341 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,341 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,341 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,342 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,342 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,342 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,342 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,343 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,343 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,343 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,343 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,344 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,344 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,344 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,344 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,344 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,345 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Small Food Processor in global
+2025-07-22 11:45:30,345 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Large Food Processor in global
+2025-07-22 11:45:30,345 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,345 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,346 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Medium Food Processor in global
+2025-07-22 11:45:30,346 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Positive Consumers - north_america in north_america
+2025-07-22 11:45:30,346 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Neutral Consumers - north_america in north_america
+2025-07-22 11:45:30,347 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Negative Consumers - north_america in north_america
+2025-07-22 11:45:30,347 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Positive Consumers - europe in europe
+2025-07-22 11:45:30,347 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Neutral Consumers - europe in europe
+2025-07-22 11:45:30,347 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Negative Consumers - europe in europe
+2025-07-22 11:45:30,348 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Positive Consumers - asia_pacific in asia_pacific
+2025-07-22 11:45:30,348 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Neutral Consumers - asia_pacific in asia_pacific
+2025-07-22 11:45:30,348 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Negative Consumers - asia_pacific in asia_pacific
+2025-07-22 11:45:30,348 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Positive Consumers - latin_america in latin_america
+2025-07-22 11:45:30,349 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Neutral Consumers - latin_america in latin_america
+2025-07-22 11:45:30,349 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Negative Consumers - latin_america in latin_america
+2025-07-22 11:45:30,349 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Positive Consumers - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,349 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Neutral Consumers - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,350 - biosimulate.agents.base_agent - DEBUG - Created agent: market_participant - Negative Consumers - africa_middle_east in africa_middle_east
+2025-07-22 11:45:30,350 - biosimulate.simulation.engine - INFO - Initialized simulation engine with 670 agents
+2025-07-22 11:45:30,350 - biosimulate.simulation.engine - INFO - Starting simulation run from 2025 to 2035
+2025-07-22 11:45:30,350 - biosimulate.simulation.engine - INFO - Simulating year 2025
+2025-07-22 11:45:30,350 - biosimulate.simulation.events - INFO - Processing 2 events for year 2025
+2025-07-22 11:45:30,351 - biosimulate.simulation.events - INFO - Event: Annual market report for 2025
+2025-07-22 11:45:30,351 - biosimulate.simulation.events - INFO - Event: Biennial regulatory review in 2025
+2025-07-22 11:45:30,351 - __main__ - ERROR - Simulation failed: 'RegulatoryFramework' object has no attribute 'process_year'
+Traceback (most recent call last):
+  File "C:\Users\mhossen\OneDrive - University of Tennessee\AI\plant_biotechnoly\biosimulate\run_simulation.py", line 103, in main
+    results = engine.run()
+              ^^^^^^^^^^^^
+  File "C:\Users\mhossen\OneDrive - University of Tennessee\AI\plant_biotechnoly\biosimulate\simulation\engine.py", line 277, in run
+    reg_metrics = self.regulatory_framework.process_year(year, self.agents, self.technology_pipeline)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RegulatoryFramework' object has no attribute 'process_year'
